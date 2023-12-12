@@ -1,0 +1,9 @@
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
+[submodule "SakuinSeizoukiApi"]
+	path = SakuinSeizoukiApi
+	url = git@github.com:rinkaaan/SakuinSeizoukiApi.git
+[submodule "SakuinSeizoukiReactApp"]
+	path = SakuinSeizoukiReactApp
+	url = git@github.com:rinkaaan/SakuinSeizoukiReactApp.git
