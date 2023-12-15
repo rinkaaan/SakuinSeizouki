@@ -7,3 +7,6 @@
 [submodule "SakuinSeizoukiReactApp"]
 	path = SakuinSeizoukiReactApp
 	url = git@github.com:rinkaaan/SakuinSeizoukiReactApp.git
+[submodule "SakuinSeizoukiModels"]
+	path = SakuinSeizoukiModels
+	url = git@github.com:rinkaaan/SakuinSeizoukiModels.git
