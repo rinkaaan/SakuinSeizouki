@@ -10,3 +10,6 @@
 [submodule "SakuinSeizoukiModels"]
 	path = SakuinSeizoukiModels
 	url = git@github.com:rinkaaan/SakuinSeizoukiModels.git
+[submodule "SakuinSeizoukiElectronApp"]
+	path = SakuinSeizoukiElectronApp
+	url = git@github.com:rinkaaan/SakuinSeizoukiElectronApp.git
