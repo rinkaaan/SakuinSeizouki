@@ -4,12 +4,6 @@
 [submodule "SakuinSeizoukiApi"]
 	path = SakuinSeizoukiApi
 	url = git@github.com:rinkaaan/SakuinSeizoukiApi.git
-[submodule "SakuinSeizoukiModels"]
-	path = SakuinSeizoukiModels
-	url = git@github.com:rinkaaan/SakuinSeizoukiModels.git
 [submodule "SakuinSeizoukiElectronApp"]
 	path = SakuinSeizoukiElectronApp
 	url = git@github.com:rinkaaan/SakuinSeizoukiElectronApp.git
-[submodule "SakuinSeizoukiApiTests"]
-	path = SakuinSeizoukiApiTests
-	url = git@github.com:rinkaaan/SakuinSeizoukiApiTests.git
